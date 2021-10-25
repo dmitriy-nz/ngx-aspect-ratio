@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ngx-aspect-ratio-module';
+  aspectRatioOptions: string[] = ['1:1', '1:2', '4:3', '5:3', '16:9', '16:10'];
+  aspectRatio = '16:9';
 }

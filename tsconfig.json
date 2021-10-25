@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ngx-aspect-ratio": [
+        "dist/ngx-aspect-ratio/ngx-aspect-ratio",
+        "dist/ngx-aspect-ratio"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
