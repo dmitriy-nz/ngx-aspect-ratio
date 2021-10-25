@@ -1,11 +1,18 @@
 {
   "name": "ngx-aspect-ratio",
   "version": "1.0.0",
+  "author": "dmitriy-nz",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^12.1.0",
     "@angular/core": "^12.1.0"
   },
   "dependencies": {
     "tslib": "^2.2.0"
-  }
+  },
+  "keywords": [
+    "angular aspect ratio",
+    "aspect ratio responsive",
+    "aspect ratio"
+  ]
 }

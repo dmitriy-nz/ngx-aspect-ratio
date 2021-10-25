@@ -9,6 +9,8 @@
     "test": "ng test"
   },
   "private": true,
+  "author": "dmitriy-nz",
+  "license": "MIT",
   "dependencies": {
     "@angular/animations": "~12.1.1",
     "@angular/cdk": "^12.2.11",
@@ -38,5 +40,10 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "ng-packagr": "^12.1.0",
     "typescript": "~4.3.2"
-  }
+  },
+  "keywords": [
+    "angular aspect ratio",
+    "aspect ratio responsive",
+    "aspect ratio"
+  ]
 }
