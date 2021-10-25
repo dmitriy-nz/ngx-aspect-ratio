@@ -3,7 +3,7 @@
 Angular component container that maintains aspect ratio when responsive or changing the width of the parent. Convenient
 to use for inserting videos, photos or other content for which you need to maintain aspect ratio.
 
-#### [Demo](https://github.com/)
+#### [Demo](https://dmitriy-nz.github.io/ngx-aspect-ratio/)
 
 ## Installation
 
