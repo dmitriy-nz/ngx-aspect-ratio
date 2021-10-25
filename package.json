@@ -1,16 +1,21 @@
 {
-  "name": "ngx-aspect-ratio",
-  "version": "1.0.0",
+  "name": "ngx-aspect-ratio-module",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "build:lib": "ng build ngx-aspect-ratio --prod"
   },
   "private": true,
   "author": "dmitriy-nz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriy-nz/ngx-aspect-ratio.git"
+  },
   "dependencies": {
     "@angular/animations": "~12.1.1",
     "@angular/cdk": "^12.2.11",

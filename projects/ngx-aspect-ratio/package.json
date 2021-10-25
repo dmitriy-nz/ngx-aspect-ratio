@@ -1,8 +1,12 @@
 {
   "name": "ngx-aspect-ratio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "dmitriy-nz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriy-nz/ngx-aspect-ratio.git"
+  },
   "peerDependencies": {
     "@angular/common": "^12.1.0",
     "@angular/core": "^12.1.0"
