@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/ngx-aspect-ratio-module'),
+      dir: require('path').join(__dirname, './coverage/test3'),
       subdir: '.',
       reporters: [
         { type: 'html' },

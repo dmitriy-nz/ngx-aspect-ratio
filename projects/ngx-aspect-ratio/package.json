@@ -1,6 +1,6 @@
 {
   "name": "ngx-aspect-ratio",
-  "version": "12.1.0",
+  "version": "11.2.14",
   "author": "dmitriy-nz",
   "license": "MIT",
   "repository": {
@@ -8,11 +8,11 @@
     "url": "git+https://github.com/dmitriy-nz/ngx-aspect-ratio.git"
   },
   "peerDependencies": {
-    "@angular/common": "^12.1.0",
-    "@angular/core": "^12.1.0"
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
   },
   "dependencies": {
-    "tslib": "^2.2.0"
+    "tslib": "^2.0.0"
   },
   "keywords": [
     "angular aspect ratio",
