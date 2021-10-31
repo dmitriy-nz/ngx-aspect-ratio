@@ -22,7 +22,7 @@ Add the module to your application
 export class AppModule {
 }
 ```
-### Versions
+### Version
 Install  library version for you angular version  
 
 angular 12 -> latest  
